@@ -21,3 +21,5 @@ function composer () {
         codibly/composer "$@"
 }
 ```
+
+License: MIT
